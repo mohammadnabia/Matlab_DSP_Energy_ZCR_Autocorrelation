@@ -1,7 +1,7 @@
 # Matlab_DSP_Energy_ZCR_Autocorrelation
 ## Overview
 Welcome to the Voice Signal Analysis Toolbox repository! This toolbox is designed to analyze voice signals in WAV format. It includes functionalities to calculate energy, magnitude, and zero-crossing rate and perform Autocorrelation for voiced and unvoiced segments. Explanatory comments and examples accompany the code.
-In this repository, we first read the file of a signal in Matlab and then calculate for that Signal the energy value of the short time, the magnitude of the short time, and the zero crossing rate of the short time. After seeing the output of the above values, we check the Autocorrelation for vowels and non-vowels in our selected part of the file.
+In this repository, we first read the file of a signal in Matlab and then calculate for that Signal the energy value of the short time, the magnitude of the short time, and the zero crossing rate of the short time. After seeing the output of the above values, we check the Autocorrelation for voiced and unvoiced in our selected part of the file.
 
 ## Code Overview
 ### Reading the WAV Signal
